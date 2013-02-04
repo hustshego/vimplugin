@@ -1,0 +1,1 @@
+export HISTFILE=~/.vim_bash_history
